@@ -1,0 +1,3 @@
+name = "shop-photo"
+compatibility_date = "2026-06-29"
+main = "Workers.js"
